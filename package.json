@@ -1,0 +1,7 @@
+{
+  "name": "video-render",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": { "render": "node render.js" },
+  "dependencies": { "puppeteer": "^22.15.0" }
+}
